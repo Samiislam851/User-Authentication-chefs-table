@@ -1,0 +1,9 @@
+.centered-btm {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 5px;
+  }
+  .shadow{
+    box-shadow: 0px 10px 20px rgb(132, 132, 132) !important; 
+  }

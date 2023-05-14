@@ -1,0 +1,14 @@
+
+.hover-effect {
+   
+    height: 200px;
+    text-align: start;
+    background-position: center;
+    background-size:cover;
+    transition: all .3s ease-in-out;
+    background-repeat: no-repeat;
+  }
+  .hover-effect:hover{
+    transform: scale(1.05);
+  }
+  

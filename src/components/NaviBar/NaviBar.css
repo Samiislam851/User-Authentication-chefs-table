@@ -1,0 +1,16 @@
+.table{
+animation: logoAnimation 1.3s ease-in-out ;
+transform: scale(1)
+}
+@keyframes logoAnimation {
+    0%{
+        opacity: 0;
+        margin: 40px;
+    }
+    50%{
+        opacity:0
+    }
+   100%{
+       opacity : 1;
+    }
+}
